@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "name": "C Ronald",
+        "department": "Finance",
+        "salary": 22091
+    },
+    {
+        "id": 2,
+        "name": "trump D",
+        "department": "IT",
+        "salary": 87010
+    },
+    {
+        "id": 3,
+        "name": "Biden J",
+        "department": "Finance",
+        "salary": 99148
+    }
+]

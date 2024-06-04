@@ -1,0 +1,15 @@
+version: 2
+
+sources:
+
+  - name: MOHAN_AI2024
+    description: "Class test data"
+    database: MOHAN_AI2024
+    schema: CLASS_TEST
+    tables:
+      - name: CUSTOMER
+        description: "This is the customer table info"
+      - name: ORDERS
+        description: "This is the order table info"
+      - name: PRODUCT
+        description: "This is the product table info"
